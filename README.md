@@ -83,6 +83,6 @@ Fluxo de execução: **código `.dnh` → Lexer → Parser → AST → Interpret
 
 ## Autor
 
-**Victor Harger**, estudante de Análise e Desenvolvimento de Sistemas (Senac), com foco em desenvolvimento backend.
+**Victor Harger**.
 
 [GitHub](https://github.com/Victor-Harger) · [LinkedIn](https://linkedin.com/in/victor-gabriel-prado-harger)
