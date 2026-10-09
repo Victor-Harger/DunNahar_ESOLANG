@@ -26,7 +26,7 @@ Embora o resultado inicial tenha ficado como uma versão bem mais enxuta e simpl
 <br>
 
 ### Menu principal
-![Menu principal](docs/img/01-menu.png)
+![Menu principal](\imagens\tela-inicio.png)
 
 ### Enigma revelando uma runa
 ![Enigma](docs/img/02-enigma.png)
