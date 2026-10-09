@@ -20,9 +20,10 @@ Embora o resultado inicial tenha ficado como uma versão bem mais enxuta e simpl
 - **Estruturas de linguagem**: variáveis, condicionais, laços `while` e `for`, funções com retorno e operadores aritméticos, relacionais e de comparação.
 - **Design de jogo**: campanha em fases, sistema de dicas, Codex de runas descobertas e progresso salvo em arquivo.
 - **Orientação a objetos em Java**, com código separado por responsabilidade.
+## Demonstração
 
 <details>
-<summary><b>Ver demonstração</b></summary>
+<summary><b>👁️ Clique para ver as telas do jogo</b></summary>
 <br>
 
 ### Menu principal
@@ -32,7 +33,7 @@ Embora o resultado inicial tenha ficado como uma versão bem mais enxuta e simpl
 ![Enigma](imagens/codigo-runa.png)
 
 ### Função de dica
-![Grimório](imagens/dica.png)
+![Dica](imagens/dica.png)
 
 ### Codex de runas
 ![Codex](imagens/codex.png)
