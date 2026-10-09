@@ -26,16 +26,16 @@ Embora o resultado inicial tenha ficado como uma versão bem mais enxuta e simpl
 <br>
 
 ### Menu principal
-![Menu principal](\imagens\tela-inicio.png)
+![Menu principal](imagens/tela-inicio.png)
 
 ### Enigma revelando uma runa
-![Enigma](docs/img/02-enigma.png)
+![Enigma](imagens/codigo-runa.png)
 
-### Código escrito no grimório
-![Grimório](docs/img/03-grimorio.png)
+### Função de dica
+![Grimório](imagens/dica.png)
 
 ### Codex de runas
-![Codex](docs/img/04-codex.png)
+![Codex](imagens/codex.png)
 
 </details>
 
