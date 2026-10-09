@@ -21,6 +21,24 @@ Embora o resultado inicial tenha ficado como uma versão bem mais enxuta e simpl
 - **Design de jogo**: campanha em fases, sistema de dicas, Codex de runas descobertas e progresso salvo em arquivo.
 - **Orientação a objetos em Java**, com código separado por responsabilidade.
 
+<details>
+<summary><b>Ver demonstração</b></summary>
+<br>
+
+### Menu principal
+![Menu principal](docs/img/01-menu.png)
+
+### Enigma revelando uma runa
+![Enigma](docs/img/02-enigma.png)
+
+### Código escrito no grimório
+![Grimório](docs/img/03-grimorio.png)
+
+### Codex de runas
+![Codex](docs/img/04-codex.png)
+
+</details>
+
 ## Como jogar
 
 Requer **Java 17 ou superior**.
