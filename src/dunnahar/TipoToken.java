@@ -1,0 +1,13 @@
+package dunnahar;
+
+public enum TipoToken {
+    // Runas
+    ACH, NAM, GET, WRI, REA, IFT, ELS, WHI, FOR, FNK, RET, VAL, BRK, COM, NNL,
+    // Literais
+    NUMERO, TEXTO, IDENTIFICADOR,
+    // Operadores e pontuação
+    MAIS, MENOS, VEZES, DIVIDE, RESTO,
+    IGUAL, IGUAL_IGUAL, DIFERENTE, MENOR, MENOR_IGUAL, MAIOR, MAIOR_IGUAL,
+    ABRE_PAREN, FECHA_PAREN, ABRE_CHAVE, FECHA_CHAVE, VIRGULA, PONTO_VIRGULA,
+    FIM
+}

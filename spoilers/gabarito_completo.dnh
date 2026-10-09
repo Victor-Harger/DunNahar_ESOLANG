@@ -1,0 +1,21 @@
+ᚲᛟᛗ SPOILER: usa todas as runas. Só funciona depois de descobrir todas no jogo.
+ᚲᛟᛗ fatorial recursivo
+ᚠᚾᚲ fat(n) {
+    ᛁᚠᛏ (n <= 1) { ᚱᛖᛏ 1 } ᛖᛚᛋ { ᚱᛖᛏ n * fat(n - 1) }
+}
+
+ᚠᛟᚱ (ᚾᚨᛗ i = 1; i <= 5; i = i + 1) {
+    ᚹᚱᛁ("fat(" + i + ") = ")
+    ᚨᚲᚺ(fat(i))
+}
+
+ᚾᚨᛗ vazio = ᚾᚾᛚ
+ᚨᚲᚺ(vazio)
+ᚨᚲᚺ(ᚡᚨᛚ("40") + 2)
+
+ᚾᚨᛗ c = 0
+ᚹᚺᛁ (1 == 1) {
+    c = c + 1
+    ᛁᚠᛏ (c == 3) { ᛒᚱᚲ }
+}
+ᚨᚲᚺ("c = " + c)

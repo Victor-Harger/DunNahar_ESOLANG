@@ -1,0 +1,27 @@
+# Java compilado
+
+*.class
+out/
+
+# Arquivo temporário de compilação
+
+manifest.txt
+
+# Dados gerados durante o jogo
+
+dunnahar.save
+grimorio.dnh
+
+# Arquivos temporários do sistema
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+
+.idea/
+*.iml
+.settings/
+.project
+.classpath
